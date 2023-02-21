@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservizi.iml" filepath="$PROJECT_DIR$/.idea/Microservizi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/discoveryserver/discoveryserver.iml" filepath="$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/discoveryserver/discoveryserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/spring-gateway/gateway.iml" filepath="$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/spring-gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/microservizio1/micro1.iml" filepath="$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/microservizio1/micro1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/microservizio2/micro2.iml" filepath="$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/microservizio2/micro2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/microservice-template.iml" filepath="$PROJECT_DIR$/contrader_projects-customfood-be-7fecc0e925da/microservice-template.iml" />
+    </modules>
+  </component>
+</project>
